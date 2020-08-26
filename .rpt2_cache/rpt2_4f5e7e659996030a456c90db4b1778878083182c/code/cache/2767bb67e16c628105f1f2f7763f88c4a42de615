@@ -1,0 +1,4 @@
+{
+  "code": "var GameEvent_Als = (function () {\r\n    function GameEvent_Als() {\r\n    }\r\n    GameEvent_Als.ON_PS_CHANGE = \"ON_PS_CHANGE\";\r\n    GameEvent_Als.ON_GLOD_CHANGE = \"ON_GLOD_CHANGE\";\r\n    GameEvent_Als.ON_SP_UPDOWN_TIME = \"ON_SP_UPDOWN_TIME\";\r\n    GameEvent_Als.REFRESH_INVITE = \"REFRESH_INVITE\";\r\n    GameEvent_Als.EVENT_FLAY_GLOD = \"EVENT_FLAY_GLOD\";\r\n    GameEvent_Als.CHANGE_VIDEO_IMAGE = \"CHANGE_VIDEO_IMAGE\";\r\n    GameEvent_Als.PS_LIMITLESS = \"PS_LIMITLISS\";\r\n    return GameEvent_Als;\r\n}());\r\nexport default GameEvent_Als;\r\nwindow['GameEvent'] = GameEvent_Als;\r\n",
+  "references": []
+}

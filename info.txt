@@ -1,0 +1,7 @@
+qq:
+APPID：1109973515    
+key：Nqn9mMVAoEEs8fdw
+
+banner_01 476ea007d88c1bd209a27cd68d315a02 banner广告位  
+video_01 cacc94b0ab8b964f9852b3eaf9981f70 激励视频广告位  
+box_01 66ec5934a5a211f3118682197d99c975

@@ -1,0 +1,6 @@
+{
+  "code": "import { EnterGameType } from \"./CommonDefine\";\r\nvar GameStateManager_Als = (function () {\r\n    function GameStateManager_Als() {\r\n        this.nLevelState = EnterGameType.enum_EnterGameType_GameHome;\r\n    }\r\n    GameStateManager_Als.getInstance = function () {\r\n        if (!GameStateManager_Als.instance) {\r\n            GameStateManager_Als.instance = new GameStateManager_Als();\r\n        }\r\n        return GameStateManager_Als.instance;\r\n    };\r\n    Object.defineProperty(GameStateManager_Als.prototype, \"levelState\", {\r\n        get: function () {\r\n            return this.nLevelState;\r\n        },\r\n        set: function (nState) {\r\n            this.nLevelState = nState;\r\n        },\r\n        enumerable: true,\r\n        configurable: true\r\n    });\r\n    return GameStateManager_Als;\r\n}());\r\nexport default GameStateManager_Als;\r\n",
+  "references": [
+    "E:/laya/project/laya_girl_ts_wecat/src/script/games/CommonDefine.ts"
+  ]
+}

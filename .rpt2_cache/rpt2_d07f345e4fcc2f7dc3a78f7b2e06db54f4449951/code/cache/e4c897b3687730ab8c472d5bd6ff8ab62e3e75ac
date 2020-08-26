@@ -1,0 +1,4 @@
+{
+  "code": "var Als_SoundConst = (function () {\r\n    function Als_SoundConst() {\r\n    }\r\n    Als_SoundConst.getKeyUrl = function (key) {\r\n        return \"resource/assets/sounds/\" + key + Als_SoundConst.sufix;\r\n    };\r\n    Als_SoundConst.Bgm = \"bgm\";\r\n    Als_SoundConst.Btn_1 = \"btn_1\";\r\n    Als_SoundConst.sufix = \".mp3\";\r\n    return Als_SoundConst;\r\n}());\r\nexport default Als_SoundConst;\r\n",
+  "references": []
+}

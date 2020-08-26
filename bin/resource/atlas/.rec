@@ -1,0 +1,28 @@
+D .
+D resource
+D resource/assets
+D resource/assets/base
+P 2D32B6B3 game_panel_db.png
+P 21DA7161 tips_mengban.png
+D resource/assets/config
+R 514609D7 GameConfig.json
+R E0866228 InviteConfig.json
+R AA1DC7E2 LevelPsInfo.json
+R 68B1F678 SignConfig.json
+D resource/assets/img
+D resource/assets/preloading
+R 54024473 loading_baseboard_1.png
+R 5FEFD43E loading_baseboard_2.png
+S 7BB12A8B loading_bg.jpg
+R 865D8F0B loading_logo.png
+R B1446467 loading_logo_wx.png
+R 9CE186E4 loading_word.png
+D resource/assets/img/ani
+D resource/assets/img/choose
+D resource/assets/img/common
+D resource/assets/img/guessLike
+S C6FA7C6B gl_db.png
+P CE1C3E58 gl_icon_1.png
+D resource/assets/img/level
+D resource/assets/img/ui
+D resource/assets/img/wecat

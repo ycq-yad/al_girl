@@ -1,0 +1,30 @@
+2020/07/14-20:02:32.326 1508 Reusing MANIFEST G:\H5\MiniGame198\LAYA\project\laya_girl_ts\.laya\chrome\Default\Local Storage\leveldb/MANIFEST-000001
+2020/07/14-20:02:32.326 1508 Recovering log #160
+2020/07/14-20:02:32.327 1508 Reusing old log G:\H5\MiniGame198\LAYA\project\laya_girl_ts\.laya\chrome\Default\Local Storage\leveldb/000160.log 
+2020/07/14-20:02:32.327 1508 Delete type=2 #68
+2020/07/14-20:02:32.327 1508 Delete type=0 #70
+2020/07/14-20:02:32.327 1508 Delete type=2 #71
+2020/07/14-20:16:52.171 24a0 Level-0 table #164: started
+2020/07/14-20:16:52.175 24a0 Level-0 table #164: 15800 bytes OK
+2020/07/14-20:16:52.177 24a0 Delete type=0 #160
+2020/07/14-20:28:20.644 24a0 Level-0 table #166: started
+2020/07/14-20:28:20.648 24a0 Level-0 table #166: 17101 bytes OK
+2020/07/14-20:28:20.650 24a0 Delete type=2 #68
+2020/07/14-20:28:20.650 24a0 Delete type=0 #70
+2020/07/14-20:28:20.650 24a0 Delete type=2 #71
+2020/07/14-20:28:20.650 24a0 Delete type=0 #163
+2020/07/14-20:28:20.654 24a0 Compacting 4@0 + 1@1 files
+2020/07/14-20:28:20.658 24a0 Generated table #167@0: 124 keys, 11486 bytes
+2020/07/14-20:28:20.658 24a0 Compacted 4@0 + 1@1 files => 11486 bytes
+2020/07/14-20:28:20.660 24a0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/14-20:28:20.660 24a0 Delete type=2 #157
+2020/07/14-20:28:20.660 24a0 Delete type=2 #159
+2020/07/14-20:28:20.660 24a0 Delete type=2 #161
+2020/07/14-20:28:20.660 24a0 Delete type=2 #164
+2020/07/14-20:28:20.660 24a0 Delete type=2 #166
+2020/07/15-09:39:41.033 24a0 Level-0 table #169: started
+2020/07/15-09:39:41.040 24a0 Level-0 table #169: 16423 bytes OK
+2020/07/15-09:39:41.042 24a0 Delete type=0 #165
+2020/07/15-10:23:29.205 24a0 Level-0 table #171: started
+2020/07/15-10:23:29.210 24a0 Level-0 table #171: 15368 bytes OK
+2020/07/15-10:23:29.212 24a0 Delete type=0 #168

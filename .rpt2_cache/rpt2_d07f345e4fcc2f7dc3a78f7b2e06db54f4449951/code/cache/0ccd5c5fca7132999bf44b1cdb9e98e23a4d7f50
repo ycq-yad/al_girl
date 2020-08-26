@@ -1,0 +1,4 @@
+{
+  "code": "var MiniEventConst_Als = (function () {\r\n    function MiniEventConst_Als() {\r\n    }\r\n    MiniEventConst_Als.HOME_SHARE = \"h_sh\";\r\n    MiniEventConst_Als.HOME_LEVEL = \"h_l\";\r\n    MiniEventConst_Als.HOME_SIGIN = \"h_s\";\r\n    MiniEventConst_Als.HOME_INVATE = \"h_i\";\r\n    MiniEventConst_Als.GAME_UP = \"g_u\";\r\n    MiniEventConst_Als.GAME_TIP = \"g_t\";\r\n    MiniEventConst_Als.GAME_PLAY_LEVEL = \"g_p_l\";\r\n    MiniEventConst_Als.GAMEOVER_SHARE = \"g_s\";\r\n    MiniEventConst_Als.GAMEOVER_GET = \"g_g\";\r\n    MiniEventConst_Als.GAMEOVER_AGIN = \"g_a\";\r\n    return MiniEventConst_Als;\r\n}());\r\nexport default MiniEventConst_Als;\r\n",
+  "references": []
+}
